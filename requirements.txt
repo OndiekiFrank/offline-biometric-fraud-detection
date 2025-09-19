@@ -1,0 +1,7 @@
+opencv-python
+face_recognition
+numpy
+scikit-learn
+cryptography
+tensorflow-lite
+onnxruntime
